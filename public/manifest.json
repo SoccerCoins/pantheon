@@ -1,0 +1,21 @@
+{
+  "short_name": "Pantheon",
+  "name": "Pantheon Hotel - Authentic Greek Experience in Crete",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#005f73",
+  "background_color": "#ffffff",
+  "description": "Nestled in Atsipopoulo, Pantheon Hotel offers a unique blend of traditional Greek hospitality with modern amenities. Enjoy panoramic views of the Cretan Sea and easy access to Rethymnon city center."
+}
